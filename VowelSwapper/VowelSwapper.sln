@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelSwapper", "VowelSwapper\VowelSwapper.csproj", "{B919932E-15F9-4FEC-AF8F-FC36EF2B9A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelSwap", "VowelSwap\VowelSwap.csproj", "{C8054394-3C3D-467D-AACB-936A38568A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelSwapTest", "VowelSwapTest\VowelSwapTest.csproj", "{DD7BC81D-9BDD-4DA2-B070-E2700BD5CF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B919932E-15F9-4FEC-AF8F-FC36EF2B9A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B919932E-15F9-4FEC-AF8F-FC36EF2B9A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B919932E-15F9-4FEC-AF8F-FC36EF2B9A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B919932E-15F9-4FEC-AF8F-FC36EF2B9A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8054394-3C3D-467D-AACB-936A38568A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8054394-3C3D-467D-AACB-936A38568A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8054394-3C3D-467D-AACB-936A38568A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8054394-3C3D-467D-AACB-936A38568A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7BC81D-9BDD-4DA2-B070-E2700BD5CF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7BC81D-9BDD-4DA2-B070-E2700BD5CF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7BC81D-9BDD-4DA2-B070-E2700BD5CF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7BC81D-9BDD-4DA2-B070-E2700BD5CF88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
